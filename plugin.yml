@@ -1,0 +1,8 @@
+main: com.plugin.Main
+name: AntiHack 
+version: 3.5.5
+description: This plugin does so much stuff it can't be contained!
+api-version: 1.16
+author: Mark Winson 
+ 
+  
